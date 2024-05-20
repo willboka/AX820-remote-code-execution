@@ -1,0 +1,5 @@
+user yuncorelot
+topic readwrite prtdaxkypywtbwvarlgepmqvr/somecltid/#
+
+user yuncorelot2
+topic readwrite prtdaxkypywtbwvarlgepmqvr/somecltid/#
